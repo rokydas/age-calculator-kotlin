@@ -2,4 +2,7 @@
     <string name="app_name">Age Calculator</string>
     <string name="heading">CALCULATE YOUR AGE</string>
     <string name="enter_birthday">Enter your birthday</string>
+    <string name="select_date">Select Date</string>
+    <string name="nothing_selected">Nothing is selected</string>
+    <string name="current_date">Current Date</string>
 </resources>
